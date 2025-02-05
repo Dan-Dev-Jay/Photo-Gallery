@@ -24,4 +24,4 @@
 
 ## Author:
 
-- **GitHub** - [Dan-Dev-Jay]((https://github.com/Dan-Dev-Jay))
+- **GitHub** - [Dan-Dev-Jay](https://github.com/Dan-Dev-Jay)
