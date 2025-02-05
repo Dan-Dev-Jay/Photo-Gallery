@@ -24,5 +24,4 @@
 
 ## Author:
 
-- **GitHub** - [Guri-1186](https://github.com/Guri-1186)
-- **LinkedIn** - [Guranda jikia](https://www.linkedin.com/in/guranda-jikia-3aaa5118b/)
+- **GitHub** - [Dan-Dev-Jay]((https://github.com/Dan-Dev-Jay))
